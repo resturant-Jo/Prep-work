@@ -1,6 +1,6 @@
 # Prep-work
 
-![wireframe](https://drive.google.com/file/d/1pYRq6y6OCcdKKTK-hlumJQBZVZXKuaPR/view?usp=sharing)
+![wireframe](./401WireFrame.png)
 
 1. As an developer user, I want the ability to search for a Food.
 
